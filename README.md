@@ -1,2 +1,2 @@
 # gpt-toy
-.
+This particular repository aims to implement the GPT2 model by OpenAI derived from the paper...
